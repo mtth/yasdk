@@ -1,6 +1,7 @@
 lib/
 node_modules/
 out/
+*.gen/
 *.gen.*
 *.local
 tsconfig.tsbuildinfo
